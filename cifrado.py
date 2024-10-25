@@ -1,3 +1,10 @@
+# --------------------------------- #
+# Cifrado de una imagen con AES en modo ECB y CBC
+# Integrantes:
+# - Jimena Hernández
+# - Mark Albrand
+# --------------------------------- #
+
 from PIL import Image
 import numpy as np
 from Crypto.Cipher import AES
